@@ -1,13 +1,13 @@
 {
-    "id": "ankur310794/ye-first-wala-hai",
-    "title": "my-awesome-kernel",
-    "code_file": "my-awesome-kernel.ipynb",
-    "language": "r",
-    "kernel_type": "notebook",
-    "is_private": "true",
-    "enable_gpu": "false",
-    "enable_internet": "false",
-    "dataset_sources": ["heesoo37/120-years-of-olympic-history-athletes-and-results"],
-    "competition_sources": [],
-    "kernel_sources": []
-  }
+  "id": "ankur310794/Automated EDA 983137",
+  "title": "Welcome to Automated EDA : 983137",
+  "code_file": "botV1.ipynb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": ["mathan/fifa-2018-match-statistics"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
